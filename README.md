@@ -16,7 +16,7 @@
 
 ### Algumas redes que eu uso 
 
-<img alt= "Discord" src="https://img.icons8.com/?size=100&id=89436&format=png&color=000000"/>  [![Instagram](https://img.icons8.com/?size=100&id=TSZw5VixabhS&format=png&color=000000/)
+<img alt= "Discord" src="https://img.icons8.com/?size=100&id=89436&format=png&color=000000"/>  ![Instagram](https://img.icons8.com/?size=100&id=TSZw5VixabhS&format=png&color=000000/)
 
 
 
