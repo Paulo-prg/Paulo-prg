@@ -16,7 +16,7 @@
 
 ### Algumas redes que eu uso 
 
-<img alt= "Discord" src="https://img.icons8.com/?size=100&id=89436&format=png&color=000000"/>  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulinho.apns/)
+<img alt= "Discord" src="https://img.icons8.com/?size=100&id=89436&format=png&color=000000"/>  [![Instagram](https://img.icons8.com/?size=100&id=TSZw5VixabhS&format=png&color=000000/)
 
 
 
